@@ -25,7 +25,7 @@
   * Shorter interations thus faster time-to-market
 - [ ] Needs a **build pipeline** to generate the build server
 ## Pipeline
-- [ ] Maximize efficiency and avoid idles within each phase of CI
+- [ ] Maximize efficiency and avoid idles within each phase of CI/CD
 
 ## Why is traditional way (Waterfall model) of operating bad? 
 - [ ] Incorrectness of instructions
