@@ -17,3 +17,9 @@
   * Build should compile the code as well as run automated
   * Fixing a failed build should be top priority for developers
   * Build results should always be communicated to all developers
+- [ ] **BENEFITS**:
+ * Integration is automated and quick
+ * Issues show up early since frequent integration
+ * Broken builds are fixed with immediate priority by developers
+ * Shorter feedback cycle since developers are notified immediately
+ * Shorter interations thus faster time-to-market
