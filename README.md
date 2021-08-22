@@ -41,3 +41,14 @@
   * Automation prevents the occurence of human errors
   * Automated deployment, easily repeatable, thus lesser time to market
 - [ ] Needs a **release pipeline** to generate the build server
+## Continuous deployment (CD)
+- [ ] Software development practice where software is automatically released to production continously
+
+## So what is CI/CD?
+- [ ] Commonly, continous integration/continious delivery
+- [ ] Uncommonly, continous integration/continious deployment
+  * Only enterpises whose IT department has reached a very high maturity level that implement continous deployment due to its risks.
+## Devops
+- [ ] Development(CI) and operations (CD)
+- [ ] CI/CD is seperated into 2 branches. CI Branch for dev and CD branch for ops
+- [ ] New culture and new way of thinking as an improvement to traditional development and operations
