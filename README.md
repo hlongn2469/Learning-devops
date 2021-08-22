@@ -52,3 +52,6 @@
 - [ ] Development(CI) and operations (CD)
 - [ ] CI/CD is seperated into 2 branches. CI Branch for dev and CD branch for ops
 - [ ] New culture and new way of thinking as an improvement to traditional development and operations
+## How do we build a CI/CD pipeline?
+![image](https://user-images.githubusercontent.com/78957509/130347169-68921feb-6b15-4cce-afac-9a26c6e16e52.png)
+
