@@ -53,5 +53,16 @@
 - [ ] CI/CD is seperated into 2 branches. CI Branch for dev and CD branch for ops
 - [ ] New culture and new way of thinking as an improvement to traditional development and operations
 ## How do we build a CI/CD pipeline?
-![image](https://user-images.githubusercontent.com/78957509/130347188-fcdde929-8504-4cca-bbac-e147ca05cfbd.png)
+[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+
+This Repository is a collection of Implementation documents. 
+
+### Purpose:
+By following this repository you can able to setup a DevOps CI/CD Pipeline using
+- git
+- Jenkins
+- Maven
+- Ansible
+- Docker &
+- Kubernetes
 
